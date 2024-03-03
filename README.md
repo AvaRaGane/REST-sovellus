@@ -1,7 +1,7 @@
 # REST-sovellus
-##IN00CT05-3006 kurssin pieni REST-palvelu
+## IN00CT05-3006 kurssin pieni REST-palvelu
 
-##Tervetuloa pelaamaan kasarin viihdevisaa!
+## Tervetuloa pelaamaan kasarin viihdevisaa!
 
 Peliä pelataan REST-endpointeilla, esim. Postmanilla.
 Aluksi sinun pitää antaa nimesi. Voit antaa sen /kayttaja (parametrina kayttaja)
