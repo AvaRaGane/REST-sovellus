@@ -1,6 +1,7 @@
 # REST-sovellus
 IN00CT05-3006 kurssin pieni REST-palvelu
 
+        "<html><body>"
         "<h3>Tervetuloa pelaamaan kasarin viihdevisaa!</h3>"
         "<p>Peliä pelataan REST-endpointeilla, esim. Postmanilla.</p>"
         "<p>Aluksi sinun pitää antaa nimesi. Voit antaa sen /kayttaja (parametrina kayttaja)</p>"
